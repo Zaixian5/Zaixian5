@@ -85,7 +85,7 @@
 
 <div align="center">
   <a href="https://github.com/Zaixian5">
-    <img src="https://github-readme-stats.vercel.app/api?username=본인_깃허브_ID&show_icons=true&theme=radical" alt="Jaeheon's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Zaixian5&show_icons=true&theme=radical" alt="Jaeheon's GitHub Stats" />
   </a>
   <a href="https://github.com/Zaixian5">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaixian5&layout=compact&theme=radical" alt="Top Languages" />
@@ -97,7 +97,7 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/링크드인_ID_여기에_입력">
+  <a href="https://www.linkedin.com/in/링크드인_ID_추후_입력_예정">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
