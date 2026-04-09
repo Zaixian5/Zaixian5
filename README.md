@@ -18,17 +18,24 @@
 <br>
 
 ## 📁 Key Projects
+### ⌨️ 주요 개발 작품과 기술 세미나 프로젝트
 | 프로젝트 제목 | 간단한 소개 | 깃허브 링크 |
 | :--- | :--- | :--- |
-| **프로젝트** | 설명 | [🔗 GitHub 바로가기](#) |
-| **프로젝트** | 설명 | [🔗 GitHub 바로가기](#) |
-| **프로젝트** | 설명 | [🔗 GitHub 바로가기](#) |
-| **프로젝트** | 설명 | [🔗 GitHub 바로가기](#) |
-| **프로젝트** | 설명 | [🔗 GitHub 바로가기](#) |
-| **프로젝트** | 설명 | [🔗 GitHub 바로가기](#) |
-| **프로젝트** | 설명 | [🔗 GitHub 바로가기](#) |
-| **프로젝트** | 설명 | [🔗 GitHub 바로가기](#) |
-| **프로젝트** | 설명 | [🔗 GitHub 바로가기](#) |
+| **루나리(Lunary)** | 2025 오픈소스 개발자 대회 출품작. AI와 하루 일과를 나누는 대화를 하면 공감 어린 조언과 일기를 자동으로 생성해주는 AI 일기장 모바일 앱. 2025 오픈소스 개발자 대회 출품작 | [🔗 GitHub 바로가기](https://github.com/Lunary-AI-Diary/Lunary) |
+| **3-tier 아키텍처의 보안과 WAF** | 우리 FISA 6기 1차 기술 세미나 작품. 3-tier 아키텍처의 보안 위험 요소와 보안 강화 전략을 조사하고 웹 서버에 Modsecurity 기반 WAF를 구축하는 실습 진행 및 발표 | [🔗 GitHub 바로가기](https://github.com/Woori-Fisa-1st-Tech-Seminar-Team) |
+| **Grey-box Fuzzing과 DevSecOps** | 우리 FISA 6기 2차 기술 세미나 작품. 보안 취약점이 발견된 SnakeYAML 1.30을 Jazzer로 Grey-box Fuzzing 테스트를 진행하고 JaCoCo로 커버리지를 분석. 또한 소스코드의 보안 취약점 분석 및 테스트 자동화 CI/CD 구축 실습 | [🔗 GitHub 바로가기](https://github.com/WooriFisa-2ndTechSeminar-JavaFuzz) |
+
+### 📙 주요 학습 기록
+| 프로젝트 제목 | 간단한 소개 | 깃허브 링크 |
+| :--- | :--- | :--- |
+| **n8n 기반 카드 결제 알림 시스템** | 랜덤으로 발생한 카드 결제 기록을 슬랙으로 자동 알림 발송해주는 가상의 카드 결제 알림 시스템. n8n과 자바 MVC 패턴에 대해 학습한 후 이를 적용하고 실습하기 위해 개발한 프로젝트.| [🔗 GitHub 바로가기](https://github.com/woorifisa-missions/n8n-project) |
+| **ELK 스택 기반 우리카드 데이터 분석 프로젝트** | 우리카드 사용자의 소비 데이터를 분석하여 최적의 카드 마케팅 전략을 수립하는 프로젝트. Elastic Stack에 대해 학습한 후 이를 실습을 통해 깊이 이해해보고자 하는 목적 | [🔗 GitHub 바로가기](https://github.com/woorifisa-missions/wooricard_analysis) |
+| **VMware vSphere 기반 프라이빗 클라우드 인프라 구축** | 프라이빗 클라우드 환경에서 필요한 서버 환경을 구축해보며 실습하는 프로젝트. ESXi와 vSphere 기반으로 가상화 인프라를 설계하고, 윈도우 및 리눅스 환경에서 네트워크 설정, NTP, DNS, NAS, iSCSI, NFS 등 서버를 구축 | [🔗 GitHub 바로가기](https://github.com/woorifisa-missions/VMware-proj) |
+| **리눅스 명령어 기반 로그 분석 실습** | 가상의 로그 기록을 만들고 리눅스 환경에서 명령어만으로 유용한 정보를 추출하여 분석하는 실습. 로그 분석 능력과 리눅스 명령어 사용 능력을 기르기 위해 진행. 문자열 파싱을 도와주는 awk, JSON 파싱용 jq, YAML 파싱용 yq 명령어를 사용 | [🔗 GitHub 바로가기](https://github.com/woorifisa-missions/Linux-TeamLab) |
+| **리눅스 inotify-tools 기반 CI/CD 실습** | 리눅스에서 파일 변경을 감지하는 inotify-tools를 활용해 JAR 파일의 변경이 감지되면 자동으로 업데이트 후 실행해 주는 간이 CI/CD 실습. Jenkins와 같은 대표적인 CI/CD 툴을 공부하기 전 전통적인 방식을 먼저 이해하기 위한 목적. | [🔗 GitHub 바로가기](https://github.com/woorifisa-missions/build-automation-study) |
+| **Docker 이미지 최적화 전략 실습** | Docker 이미지를 최적화 하는 방법에 대해 조사 후 실습. 멀티 스테이지, JAR 빌드 레이어 분리, 최적의 베이스 이미지 선정, Docker 이미지 빌드 레이어 이해 등 학습 | [🔗 GitHub 바로가기](https://github.com/woorifisa-missions/build_optimization) |
+| **Docker 헬스 체크 실습** | Docker 컨테이너의 상태를 점검하는 헬스 체크 기능을 다방면으로 적용해 보는 실습. Dockerfile 기반 헬스 체크, docker compose 기반 헬스 체크를 구현 및 비교 | [🔗 GitHub 바로가기](https://github.com/woorifisa-missions/docker-health-check) |
+| **N Tier 쿠버네티스 환경 구축 실습** | 세 개의 VM에 쿠버네티스 마스터노드 한 개와 워커노드 2개를 구축하고 통신하는 과정을 실습. k8s 클러스터와 노드, pod 등 기본 아키텍처를 학습하고 Node port, Ingress 등 네트워크 통신 실습 | [🔗 GitHub 바로가기](https://github.com/woorifisa-missions/n-tier-k8s) |
 
 <br>
 
