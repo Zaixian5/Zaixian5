@@ -99,7 +99,7 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/링크드인_ID_추후_입력_예정">
+  <a href="https://www.linkedin.com/in/재헌-사-774184402">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
