@@ -19,10 +19,14 @@
 <br>
 
 ## 📁 Key Projects
-### ⌨️ 주요 개발 작품과 기술 세미나 프로젝트
+### ⌨️ 주요 개발 작품
 | 프로젝트 제목 | 간단한 소개 | 깃허브 링크 |
 | :--- | :--- | :--- |
 | **루나리(Lunary)** | 2025 오픈소스 개발자 대회 출품작. AI와 하루 일과를 나누는 대화를 하면 공감 어린 조언과 일기를 자동으로 생성해주는 AI 일기장 모바일 앱. | [🔗 GitHub 바로가기](https://github.com/Lunary-AI-Diary/Lunary) |
+
+### 🎤 기술 세미나 프로젝트
+| 프로젝트 제목 | 간단한 소개 | 깃허브 링크 |
+| :--- | :--- | :--- |
 | **3-tier 아키텍처의 보안과 WAF** | 우리 FISA 6기 1차 기술 세미나 작품. 3-tier 아키텍처의 보안 위험 요소와 보안 강화 전략을 조사하고 웹 서버에 Modsecurity 기반 WAF를 구축하는 실습 진행 및 발표 | [🔗 GitHub 바로가기](https://github.com/Woori-Fisa-1st-Tech-Seminar-Team) |
 | **Grey-box Fuzzing과 DevSecOps** | 우리 FISA 6기 2차 기술 세미나 작품. 보안 취약점이 발견된 SnakeYAML 1.30을 Jazzer로 Grey-box Fuzzing 테스트를 진행하고 JaCoCo로 커버리지를 분석. 또한 소스코드의 보안 취약점 분석 및 테스트 자동화 CI/CD 구축 실습 | [🔗 GitHub 바로가기](https://github.com/WooriFisa-2ndTechSeminar-JavaFuzz) |
 
@@ -109,5 +113,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/재헌-사-774184402">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:jls15900@gmail.com">
+    <img src="https://img.shields.io/badge/Email-f5451d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
