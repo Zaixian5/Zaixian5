@@ -29,7 +29,7 @@
 | 프로젝트 제목 | 간단한 소개 | 깃허브 링크 |
 | :--- | :--- | :--- |
 | **3-tier 아키텍처의 보안과 WAF** | 우리 FISA 6기 1차 기술 세미나 작품. 3-tier 아키텍처의 보안 위험 요소와 보안 강화 전략을 조사하고 웹 서버에 Modsecurity 기반 WAF를 구축하는 실습 진행 및 발표 | [🔗 GitHub 바로가기](https://github.com/Woori-Fisa-1st-Tech-Seminar-Team) |
-| **Grey-box Fuzzing과 DevSecOps** | 우리 FISA 6기 2차 기술 세미나 작품. 보안 취약점이 발견된 SnakeYAML 1.30을 Jazzer로 Grey-box Fuzzing 테스트를 진행하고 JaCoCo로 커버리지를 분석. 또한 소스코드의 보안 취약점 분석 및 테스트 자동화 CI/CD 구축 실습 | [🔗 GitHub 바로가기](https://github.com/WooriFisa-2ndTechSeminar-JavaFuzz) |
+| **Grey-box Fuzzing과 DevSecOps** | 우리 FISA 6기 2차 기술 세미나 우수상 작품. 보안 취약점이 발견된 SnakeYAML 1.30을 Jazzer로 Grey-box Fuzzing 테스트를 진행하고 JaCoCo로 커버리지를 분석. 또한 소스코드의 보안 취약점 분석 및 테스트 자동화 CI/CD 구축 실습 | [🔗 GitHub 바로가기](https://github.com/WooriFisa-2ndTechSeminar-JavaFuzz) |
 
 ### 📙 주요 학습 기록
 | 프로젝트 제목 | 간단한 소개 | 깃허브 링크 |
