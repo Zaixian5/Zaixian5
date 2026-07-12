@@ -6,13 +6,13 @@
 
 안녕하세요! **백엔드 개발과 DevOps, 그리고 인프라 엔지니어링**에 깊은 관심을 두고 있는 사재헌입니다. 
 
-- 🎓 현재 **우리 FISA 6기** 부트캠프에 참여하며 백엔드 및 시스템 인프라 전반의 역량을 탄탄하게 다지고 있습니다.
+- 🎓 **우리 FISA 6기** 부트캠프를 이수하며 백엔드 및 시스템 인프라 전반의 역량을 탄탄하게 학습하였습니다.
 - 🔭 **Spring Boot**를 기반으로 안정적이고 확장 가능한 백엔드 웹 애플리케이션을 설계하고 개발합니다.
 - 📱 **Flutter와 Java**를 활용하여 모바일 앱을 개발하며, 프론트엔드와 백엔드를 아우르는 넓은 시야로 사용자 중심의 서비스를 고민합니다.
 - ☁️ **Docker, Kubernetes(K8s), AWS**를 활용하여 컨테이너 환경을 구축하고, 클라우드 네이티브 인프라 환경에서의 유연한 배포 및 운영 역량을 다지고 있습니다.
-- 🌱 단일 애플리케이션 개발을 넘어, **vSphere 및 Linux 기반의 서버 환경**을 직접 구축해본 경험이 있으며, 온프레미스(On-Premise) 인프라 아키텍처에 대한 깊은 이해도를 갖추고 있습니다.
+- 🌱 **VMware vSphere 및 Linux 기반의 서버 환경**을 직접 구축해본 경험이 있으며, 단일 애플리케이션 개발을 넘어 온프레미스(On-Premise) 인프라 아키텍처에 대한 깊은 이해도를 갖추고 있습니다.
 - ⚙️ **Jazzer**와 **JaCoCo** 같은 테스트 툴을 잘 다루며, 소프트웨어 품질 관리에 깊은 관심을 갖고 있습니다.
-- 📌 **Jenkins**를 활용한 빌드-테스트-배포 자동화 CI/CD를 직접 구축해 본 경험이 있으며, 배포 고도화 전략에 흥미를 느낍니다.
+- 📌 **Jenkins**, **ArgoCD**를 활용한 빌드-테스트-배포 자동화 CI/CD를 직접 구축해 본 경험이 있으며, 배포 고도화 전략에 흥미를 느낍니다.
 - 🔒 **Modsecurity** 기반 WAF를 구현하고 테스트 해본 경험이 있으며, 소프트웨어의 보안과 취약점 방어 전략을 잘 이해하고 있습니다.
 - 💡 개발과 운영의 경계를 허물고, **인프라**부터 **애플리케이션** 레벨까지 **전체 시스템을 조망할 수 있는 엔지니어**를 목표로 꾸준히 성장하고 있습니다.
 
@@ -22,6 +22,7 @@
 ### ⌨️ 주요 개발 작품
 | 프로젝트 제목 | 간단한 소개 | 깃허브 링크 |
 | :--- | :--- | :--- |
+| **콩콩팥팥(KKPP)** | 우리FISA 6기 최종 프로젝트 최우수상 작품. 대안신용평가 기반 농민 BNPL 플랫폼. | [🔗 GitHub 바로가기](https://github.com/FISA-Agri-Pay) |
 | **루나리(Lunary)** | 2025 오픈소스 개발자 대회 출품작. AI와 하루 일과를 나누는 대화를 하면 공감 어린 조언과 일기를 자동으로 생성해주는 AI 일기장 모바일 앱. | [🔗 GitHub 바로가기](https://github.com/Lunary-AI-Diary/Lunary) |
 
 ### 🎤 기술 세미나 프로젝트
@@ -77,6 +78,7 @@
   <img src="https://img.shields.io/badge/VMware%20vSphere-2689AA?style=for-the-badge&logo=VMware&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Harbor-D24939?style=for-the-badge&logo=Harbor&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black">
 </p>
@@ -85,6 +87,7 @@
 <p>
   <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-697DE1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
     <img src="https://img.shields.io/badge/Elastic%20Stack-28B4B4?style=for-the-badge&logo=Elastic&logoColor=white">
   </p>
@@ -92,6 +95,7 @@
 ### 🔬 DevOps
 <p>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/ArgoCD-D99143?style=for-the-badge&logo=argo&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 </p>
 
@@ -99,11 +103,6 @@
 <p>
   <img src="https://img.shields.io/badge/Jazzer-f35106?style=for-the-badge&logo=Jazzer&logoColor=white">
   <img src="https://img.shields.io/badge/JaCoCo-f39806?style=for-the-badge&logo=JaCoCo&logoColor=white">
-  <img src="https://img.shields.io/badge/CBMC-f3d706?style=for-the-badge&logo=JaCoCo&logoColor=white">
-  <img src="https://img.shields.io/badge/ASan-06f32d?style=for-the-badge&logo=JaCoCo&logoColor=white">
-  <img src="https://img.shields.io/badge/Gcov-0680f3?style=for-the-badge&logo=JaCoCo&logoColor=white">
-  <img src="https://img.shields.io/badge/LibFuzzer-14039a?style=for-the-badge&logo=JaCoCo&logoColor=white">
-  <img src="https://img.shields.io/badge/AFL++-9a04c7?style=for-the-badge&logo=JaCoCo&logoColor=white">
 </p>
 
 <br>
@@ -111,6 +110,6 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/example"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/%EC%9E%AC%ED%97%8C-%EC%82%AC-774184402/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:example@gmail.com"><img src="https://img.shields.io/badge/Email-f5451d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
