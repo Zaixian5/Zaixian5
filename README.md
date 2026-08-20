@@ -112,6 +112,5 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/%EC%9E%AC%ED%97%8C-%EC%82%AC-774184402/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jls15900@gmail.com"><img src="https://img.shields.io/badge/Email-f5451d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
