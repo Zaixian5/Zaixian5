@@ -18,6 +18,10 @@
 
 <br>
 
+> [🔗 Portfolio 바로가기](https://drive.google.com/file/d/16te5WUKfchGqSHPqL5MGYMpfJ6k-9Yrf/view?usp=drive_link)
+
+<br>
+
 ## 📁 Key Projects
 ### ⌨️ 주요 개발 작품
 | 프로젝트 제목 | 간단한 소개 | 깃허브 링크 |
@@ -85,13 +89,22 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black">
 </p>
 
+### 🖥️ Observability
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=OpenTelemetry&logoColor=white">
+  <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=Elastic&logoColor=white">
+</p>
+
 ### 🗄️ Database
 <p>
   <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-697DE1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-    <img src="https://img.shields.io/badge/Elastic%20Stack-28B4B4?style=for-the-badge&logo=Elastic&logoColor=white">
   </p>
 
 ### 🔬 DevOps
@@ -101,7 +114,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 </p>
 
-### 🔎 Quality Assurance
+### 🔎 SDET
 <p>
   <img src="https://img.shields.io/badge/Jazzer-f35106?style=for-the-badge&logo=Jazzer&logoColor=white">
   <img src="https://img.shields.io/badge/JaCoCo-f39806?style=for-the-badge&logo=JaCoCo&logoColor=white">
